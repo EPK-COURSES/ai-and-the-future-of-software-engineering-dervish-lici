@@ -11,4 +11,12 @@
 - **Source:** anthropic.com
 - **Link:** https://www.anthropic.com/research
 - **Type:** Website
+- 
+## 3. GitHub Copilot
+- **Title:** GitHub Copilot features
+- **Source:** GitHub.com
+- **Link:** https://docs.github.com/en/copilot/get-started/features
+- **Type:** Website
+
+
 
