@@ -23,3 +23,10 @@
 - **Source:** codeium.com
 - **Link:** https://codeium.com/windsurf
 - **Type:** Website
+
+ ## 5. Google Gemini Code Assist
+- **Title:** Gemini Code Assist
+- **Source:** cloud.google.com
+- **Link:** https://cloud.google.com/gemini/docs/codeassist/overview
+- **Type:** Website
+
