@@ -59,3 +59,9 @@
 - **Source:** mckinsey.com
 - **Link:** https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai
 - **Type:** Report
+
+  ## 11. Tabnine
+- **Title:** Tabnine — AI Code Assistant
+- **Source:** tabnine.com
+- **Link:** https://www.tabnine.com
+- **Type:** Website
